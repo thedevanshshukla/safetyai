@@ -57,3 +57,6 @@ This document outlines the transition roadmap from the **SafetyAI v2.0 Hackathon
 ### IoT / SCADA Integration
 * **Demo**: Scripted physics simulation ticks.
 * **Production**: Direct integration with industrial PLC/SCADA systems using **OPC-UA**, **Modbus**, or **MQTT** industrial gateways.
+
+### Achievement
+* enters into semi finale
